@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Teach, Grow, Flex',
+    paragraph: 'Welcome to FitFam - the ultimate destination for fitness enthusiasts. Here, you can connect with like-minded individuals and access exclusive workout routines, diet plans, and personalized photo and video content from top fitness influencers and trainers. Join our community and achieve your fitness goals with FitFam.'
   };
 
   return (

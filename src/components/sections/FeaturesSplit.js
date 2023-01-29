@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Better than personal training',
+    paragraph: 'FitGym lets audience and creators connect more closely by sharing detailed fitness regimines and take them behind the scenes on their journey.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  step-by-step workout plans
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Robust Workouts
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Beauty is not bought its earned, with personalized workout regimines you can duplicate your favorite influerners. Looking to find that secret weight training program that gets you the best results? Then you've come to the right place.
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/workoutpic.png')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Go from a fan to a star pupil
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Personalized Community Content
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Unlock the behind the scenes of your favorite gym star by viewing customized content created just for their GymLegion community. Send direct messages to ask questions and personlized advice without being swept away in the sea of traditional social media messages.
                   </p>
               </div>
               <div className={
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/groupic.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Real diets for real people
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Easy to Follow Meals
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Cookie cutter diet plans don't work for everyone and especially not those that are out on the town. Check in to see what your fitness infulencer is eating and their sercret menu at your local resturants.
                   </p>
               </div>
               <div className={
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/mealprep.jpg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
